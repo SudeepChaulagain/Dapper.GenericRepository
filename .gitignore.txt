@@ -1,0 +1,15 @@
+**/node_modules
+**/.sencha-ide
+**/*.user
+**/bin
+**/obj
+**/*.7z
+**/*.zip
+**/*.suo
+**/*.log
+**/.idea
+**/*.sublime-workspace
+**/*.sublime-project
+**/*.FileListAbsolute.txt
+**/*.pdf
+/packages
